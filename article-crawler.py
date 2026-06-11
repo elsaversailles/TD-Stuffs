@@ -1,3 +1,5 @@
+# Notes
+# Run this script 2-3 times to ensure that all articles are crawled. Already crawled articles will be ignored, making the rescan faster
 import csv
 import json
 import logging
